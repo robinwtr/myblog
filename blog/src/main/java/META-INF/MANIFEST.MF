@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+Main-Class: com.robin.blog.BlogApplication
+Class-Path: lucene-memory-8.6.2.jar mapper-extras-client-7.9.3.jar swagg
+ er-annotations-1.5.20.jar aliyun-java-sdk-ecs-4.2.0.jar t-digest-3.2.ja
+ r jdom-1.1.jar junit-platform-commons-1.7.0.jar httpasyncclient-4.1.4.j
+ ar jackson-dataformat-yaml-2.11.3.jar jackson-datatype-jsr310-2.11.3.ja
+ r springfox-spi-2.9.2.jar jackson-dataformat-smile-2.11.3.jar junit-pla
+ tform-engine-1.7.0.jar classmate-1.5.1.jar jboss-logging-3.4.1.Final.ja
+ r compiler-0.9.6.jar mybatis-plus-extension-3.3.0.jar guava-20.0.jar el
+ asticsearch-rest-high-level-client-7.9.3.jar spring-boot-starter-mail-2
+ .4.1.jar spring-jdbc-5.3.2.jar elasticsearch-x-content-7.9.3.jar lucene
+ -spatial-extras-8.6.2.jar lucene-spatial3d-8.6.2.jar mapstruct-1.2.0.Fi
+ nal.jar fastjson-1.2.62.jar jsqlparser-3.1.jar rank-eval-client-7.9.3.j
+ ar mysql-connector-java-8.0.22.jar spring-webmvc-5.3.2.jar javax.annota
+ tion-api-1.3.2.jar spring-core-5.3.2.jar lucene-misc-8.6.2.jar spring-b
+ oot-autoconfigure-2.4.1.jar lang-mustache-client-7.9.3.jar mybatis-spri
+ ng-2.0.3.jar log4j-to-slf4j-2.13.3.jar netty-common-4.1.55.Final.jar by
+ te-buddy-1.10.18.jar mybatis-plus-3.3.0.jar tomcat-embed-core-9.0.41.ja
+ r spring-boot-starter-amqp-2.4.1.jar httpclient-4.5.13.jar httpcore-nio
+ -4.4.14.jar jackson-databind-2.11.3.jar spring-plugin-core-1.2.0.RELEAS
+ E.jar junit-jupiter-api-5.7.0.jar mybatis-plus-boot-starter-3.3.0.jar s
+ pring-security-config-5.4.2.jar jna-5.5.0.jar lucene-join-8.6.2.jar agg
+ s-matrix-stats-client-7.9.3.jar jackson-core-2.11.3.jar reactor-core-3.
+ 4.1.jar elasticsearch-core-7.9.3.jar mybatis-plus-annotation-3.3.0.jar 
+ mybatis-3.5.3.jar lucene-sandbox-8.6.2.jar springfox-core-2.9.2.jar spr
+ ing-boot-starter-logging-2.4.1.jar spring-web-5.3.2.jar amqp-client-5.1
+ 0.0.jar jakarta.annotation-api-1.3.5.jar lucene-queries-8.6.2.jar sprin
+ g-beans-5.3.2.jar lucene-queryparser-8.6.2.jar jakarta.validation-api-2
+ .0.2.jar aliyun-java-sdk-sts-3.0.0.jar spring-security-core-5.4.2.jar s
+ pring-boot-starter-jdbc-2.4.1.jar UserAgentUtils-1.20.jar netty-codec-h
+ ttp-4.1.55.Final.jar lucene-backward-codecs-8.6.2.jar spring-oxm-5.3.2.
+ jar HikariCP-3.4.5.jar junit-jupiter-params-5.7.0.jar spring-boot-start
+ er-data-elasticsearch-2.4.1.jar spring-boot-starter-2.4.1.jar lucene-hi
+ ghlighter-8.6.2.jar jackson-datatype-jdk8-2.11.3.jar spring-rabbit-2.3.
+ 2.jar lettuce-core-6.0.1.RELEASE.jar spring-retry-1.3.0.jar jackson-dat
+ aformat-cbor-2.11.3.jar aliyun-sdk-oss-3.8.0.jar apiguardian-api-1.1.0.
+ jar snakeyaml-1.27.jar spring-boot-starter-websocket-2.4.1.jar joda-tim
+ e-2.10.4.jar junit-jupiter-engine-5.7.0.jar spring-data-keyvalue-2.4.2.
+ jar slf4j-api-1.7.30.jar jakarta.mail-1.6.5.jar springfox-swagger2-2.9.
+ 2.jar spring-context-support-5.3.2.jar springfox-spring-web-2.9.2.jar s
+ pringfox-swagger-ui-2.9.2.jar spring-context-5.3.2.jar jul-to-slf4j-1.7
+ .30.jar tomcat-embed-websocket-9.0.41.jar jakarta.activation-1.2.2.jar 
+ jettison-1.1.jar elasticsearch-7.9.3.jar spring-boot-starter-tomcat-2.4
+ .1.jar elasticsearch-geo-7.9.3.jar netty-transport-4.1.55.Final.jar par
+ ent-join-client-7.9.3.jar spring-boot-starter-data-redis-2.4.1.jar spri
+ ng-tx-5.3.2.jar spring-boot-starter-security-2.4.1.jar spring-messaging
+ -5.3.2.jar aliyun-java-sdk-ram-3.0.0.jar spring-expression-5.3.2.jar sp
+ ring-data-commons-2.4.2.jar opentest4j-1.2.0.jar spring-aop-5.3.2.jar s
+ pring-data-elasticsearch-4.1.2.jar junit-jupiter-5.8.2.jar lucene-analy
+ zers-common-8.6.2.jar logback-classic-1.2.3.jar jakarta.el-3.0.3.jar ja
+ ckson-module-parameter-names-2.11.3.jar elasticsearch-secure-sm-7.9.3.j
+ ar aliyun-java-sdk-core-3.4.0.jar springfox-swagger-common-2.9.2.jar sp
+ ring-boot-starter-json-2.4.1.jar spring-plugin-metadata-1.2.0.RELEASE.j
+ ar commons-codec-1.15.jar spring-security-web-5.4.2.jar jackson-annotat
+ ions-2.11.3.jar spring-boot-2.4.1.jar transport-netty4-client-7.9.3.jar
+  httpcore-4.4.14.jar mybatis-plus-core-3.3.0.jar hibernate-validator-7.
+ 0.0.Final.jar lucene-suggest-8.6.2.jar lombok-1.18.16.jar spring-jcl-5.
+ 3.2.jar spring-data-redis-2.4.2.jar log4j-api-2.13.3.jar spring-amqp-2.
+ 3.2.jar swagger-models-1.5.20.jar logback-core-1.2.3.jar aspectjweaver-
+ 1.9.6.jar jopt-simple-5.0.2.jar spring-boot-starter-web-2.4.1.jar elast
+ icsearch-cli-7.9.3.jar springfox-schema-2.9.2.jar netty-resolver-4.1.55
+ .Final.jar stax-api-1.0.1.jar netty-codec-4.1.55.Final.jar lucene-core-
+ 8.6.2.jar netty-buffer-4.1.55.Final.jar lucene-grouping-8.6.2.jar hppc-
+ 0.8.1.jar netty-handler-4.1.55.Final.jar elasticsearch-rest-client-7.9.
+ 3.jar HdrHistogram-2.1.9.jar spring-websocket-5.3.2.jar spring-boot-sta
+ rter-aop-2.4.1.jar reactive-streams-1.0.3.jar
+
